@@ -19,4 +19,4 @@ This interactive case study is designed to help students understand depression, 
 Feel free to submit issues or pull requests to improve the content and functionality of this interactive case study.
 
 ## License
-This project is licensed under a Creative Commons Attribution 4.0 International License - see the [LICENSE](LICENSE) file for details.
+Depression interactive clinical scenario © 2024 by Dr Srujan Agravat is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
