@@ -6,7 +6,7 @@ This interactive case study is designed to help students understand depression, 
 ## Features
 - **Interactive Scenario**: Engage with the story, making choices that affect the outcome.
 - **Educational Insights**: Learn the DSM-5 criteria for Major Depressive Disorder (MDD) and the clinical approach to diagnosis and management.
-- **Video Resources**: Access a curated playlist of educational videos to reinforce your learning.
+- **Video Resources**: Access a curated playlist of educational videos to reinforce your learning as well as deepen your interest in the topic.
 - **Discussion Points**: Reflect on key questions and collaborate with peers to enhance understanding.
 
 ## How to Use
